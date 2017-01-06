@@ -1,0 +1,48 @@
+emp{
+    display:table;
+    border: solid grey 1px;
+    margin: 10em 3em 10px 23em;
+}
+employee{
+    border: solid grey 1px;
+    margin: 10em 3em 10px 23em;
+    display: table-row;
+    }
+name{
+   
+   background-color: azure;
+   display: table-cell;
+   border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   id{
+   background-color: azure;
+   display: table-cell;   
+   border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   hiredate{
+   background-color: azure;    
+   display: table-cell;   
+   border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   add{
+   background-color: azure;    
+   display: table-cell;    
+   border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   n,ad,hd,i
+   {
+   background-color: gray;
+   font-weight: bold;
+   display: table-cell;    
+   border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   record{
+       display: table-caption;
+       margin: 25px;
+       font-size: 25px;
+   }

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<?xml-stylesheet type="text/css" href="emp.css" ?>
+<emp>
+    <record>EMPLOYEE DETAILS</record>
+    <n>NAME</n>
+    <i>ID</i>
+    <hd>HIRE DATE</hd>
+    <ad>ADDRESS</ad>
+    
+	<employee category="om">
+	<name>
+		<first>om</first>
+		<last>patel</last>
+	</name>
+	<id>E101</id>
+	<hiredate>8/10/2005</hiredate>
+	<add>mumbai</add>
+	</employee>
+        
+        <employee category="axy">
+	<name>
+		<first>akshay</first>
+		<last>P</last>
+	</name>
+	<id>E102</id>
+	<hiredate>18/11/1992</hiredate>
+	<add>new mumbai</add>
+	</employee>
+	
+	<employee category="neelu">
+	<name>
+		<first>neel</first>
+		<last>salvi</last>
+	</name>
+	<id>E103</id>
+	<hiredate>1/11/1991</hiredate>
+	<add>mumbai</add>
+	</employee>
+        
+        <employee category="pr7">
+	<name>
+		<first>Prashant</first>
+		<last>Rawat</last>
+	</name>
+	<id>E104</id>
+	<hiredate>3/8/1992</hiredate>
+	<add>delhi</add>
+	</employee>
+</emp>
