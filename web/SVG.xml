@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+
+
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!--<polygon points="100,10 40,198 190,78 10,78 160,198" style="fill:lime;stroke:purple;fill-rule:nonzero;"/>-->
+    <line x1="100" y1="10" x2="40" y2="198" style="stroke:rgb(255,0,0);"/>
+    <line x1="40" y1="198" x2="190" y2="78" style="stroke:rgb(255,0,0);"/>
+    <line x1="190" y1="78" x2="10" y2="78" style="stroke:rgb(255,0,0);"/>
+    <line x1="10" y1="78" x2="160" y2="198" style="stroke:rgb(255,0,0);"/>
+    <line x1="160" y1="198" x2="100" y2="10" style="stroke:rgb(255,0,0);"/>
+    <text>
+    <tspan x="85" y="100">Neel</tspan>
+    <tspan x="83" y="120">Salvi</tspan>
+    </text>
+</svg>
+
+  <line x1="100" y1="10" x2="40" y2="198" style="stroke:rgb(255,0,0);"/>
+    <line x1="40" y1="198" x2="190" y2="78" style="stroke:rgb(255,0,0);"/>
+    <line x1="190" y1="78" x2="10" y2="78" style="stroke:rgb(255,0,0);"/>
+    <line x1="10" y1="78" x2="160" y2="198" style="stroke:rgb(255,0,0);"/>
+    <line x1="160" y1="198" x2="100" y2="10" style="stroke:rgb(255,0,0);"/>
+    <text>
+    <tspan x="85" y="100">OM</tspan>
+    <tspan x="83" y="120">PATEL</tspan>
+    </text>
+</svg>
+
+  
