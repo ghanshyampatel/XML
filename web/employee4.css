@@ -1,0 +1,35 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 6 Jan, 2017, 12:39:55 PM
+    Author     : mca1
+*/
+
+employee{
+    display: table;
+    border: solid grey 1px;
+   text-align: center;
+   margin: auto;
+}
+emp{
+    display: table-row;
+    border: solid 1px;
+    background-color: lightsalmon
+}
+name,id,designation,dob,salary,address,age,contno,email,hiredate{
+       display: table-cell;
+        border: solid 1px;
+}
+heading{
+       display: table-row;
+       color:navy;
+}
+
+h1,h2,h3,h4,h5,h6,h7,h8,h9,h10{
+      display: table-cell;
+        border: solid 1px;
+        background-color: yellow;
+}

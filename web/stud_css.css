@@ -1,0 +1,26 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 7, 2017, 11:14:44 AM
+    Author     : DELL
+*/
+
+students{
+    display: table;
+    border: solid grey 1px;
+    margin: 5em 8em 100px 15em;
+    border-spacing: 2px;
+   
+   
+}
+title{ margin:-2em 8em 50px 10em; display: table-caption; font-size: 25px;}
+stud{background-color: lightyellow; display: table-row;}
+
+heading{display: table-row; }
+
+h1,h4,h5,h6,h2,h3,h7,h8,h9,h10{display: table-cell; border: solid 1px; background-color: yellow;  padding: 6px;}
+
+roll,name,course,dob,course,age,city,state,pin,email,contact{display: table-cell; border: solid 1px;  padding: 6px;}

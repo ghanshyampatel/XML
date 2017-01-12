@@ -1,0 +1,77 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/book.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE bookdetail SYSTEM "book.dtd">
+
+    <bookdetail>
+    ...
+    </bookdetail>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT bookdetail (heading|book)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT heading (h1|h2|h3|h4|h5|h6|h7|h8)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h1 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h2 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h3 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h4 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h5 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h6 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h7 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h8 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT book (title|type|quantity|edition|price|address|author|pages)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT title (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT type (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT quantity (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT edition (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT price (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT address (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT author (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT pages (#PCDATA)>

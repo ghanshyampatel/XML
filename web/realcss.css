@@ -1,0 +1,70 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 15, 2017, 10:26:19 AM
+    Author     : Snehal
+*/
+
+realestate
+{
+   
+display: table;
+  
+border: solid black 1px;
+   
+ margin: 10em 3em 10px 23em; 
+
+}
+real
+{
+    
+display: table-row;
+  
+border: solid black 1px;
+  
+height:20px;
+  
+}
+ heading
+ {
+   
+display: table-row;
+    
+background-color: darkgreen;
+     
+color:white; 
+ }
+
+bname,fno,area,price,size,bath
+{
+    display: table-cell;
+  
+border: solid black 1px;
+  
+background-color: whitesmoke;
+  
+padding: 10px;
+}
+h1,h2,h3,h4,h5,h6
+ {
+
+display: table-cell;
+     
+border: solid black 1px;
+ 
+}
+h11
+ {
+     
+display: table-cell;
+     
+margin-left: 500px; 
+     
+text-align: center;
+background-color:appworkspace;
+ 
+}
+

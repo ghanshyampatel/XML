@@ -1,0 +1,49 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : Jan 15, 2017, 10:59:35 AM
+    Author     : Snehal
+*/
+
+clothdetail
+{
+   
+display: table;
+border: solid black 1px;
+ margin: 10em 3em 10px 23em;
+}
+cloth
+{  
+display: table-row;
+border: solid black 1px;
+height:20px;
+}
+ heading
+ {
+display: table-row;
+background-color: darkgreen;
+color:white; 
+ }
+
+fabric,color,size,material,brand
+{
+    display: table-cell;
+border: solid black 1px;
+background-color: whitesmoke;
+padding: 10px;
+}
+h1,h2,h3,h4,h5
+ {
+display: table-cell;
+border: solid black 1px;
+padding: 10px;
+ }
+h11
+ {
+display: table-caption;
+       margin: 25px;
+       font-size: 30px;
+}

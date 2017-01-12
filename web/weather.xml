@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<?xml-stylesheet type="text/css" href="weath_css.css"?>
+
+<weather>
+    <title>Weather report of jan 2017...</title>
+    <heading>
+    <h1>City</h1><h2>Temperature(degree)</h2><h3>Precipitation(%)</h3><h4>Humidity(%)</h4><h5>Wind(km/h)</h5>
+</heading>
+
+    <we>
+        <city>NewYork</city>
+        <temp>3</temp>
+        <precipitation>0</precipitation>
+        <humidity>56</humidity>
+        <wind>13</wind>
+    </we>
+    <we>
+        <city>Mumbai</city>
+        <temp>24</temp>
+        <precipitation>0</precipitation>
+        <humidity>78</humidity>
+        <wind>8</wind>
+    </we>
+    <we>
+        <city>San Francisco</city>
+        <temp>7</temp>
+        <precipitation>0</precipitation>
+        <humidity>97</humidity>
+        <wind>8</wind>
+    </we>
+    <we>
+        <city>Paris</city>
+        <temp>2</temp>
+        <precipitation>88</precipitation>
+        <humidity>92</humidity>
+        <wind>10</wind>
+    </we>
+    <we>
+        <city>Sydney</city>
+        <temp>22</temp>
+        <precipitation>6</precipitation>
+        <humidity>73</humidity>
+        <wind>13</wind>
+    </we>
+    <we>
+        <city>Beijing</city>
+        <temp>-6</temp>
+        <precipitation>0</precipitation>
+        <humidity>80</humidity>
+        <wind>3</wind>
+    </we>
+    <we>
+        <city>Tokyo</city>
+        <temp>-1</temp>
+        <precipitation>0</precipitation>
+        <humidity>57</humidity>
+        <wind>18</wind>
+    </we>
+    <we>
+        <city>Ottawa</city>
+        <temp>-7</temp>
+        <precipitation>0</precipitation>
+        <humidity>55</humidity>
+        <wind>5</wind>
+    </we>
+    <we>
+        <city>Los Angeles</city>
+        <temp>13</temp>
+        <precipitation>0</precipitation>
+        <humidity>76</humidity>
+        <wind>6</wind>
+    </we>
+    <we>
+        <city>London</city>
+        <temp>8</temp>
+        <precipitation>24</precipitation>
+        <humidity>95</humidity>
+        <wind>11</wind>
+    </we>
+</weather>

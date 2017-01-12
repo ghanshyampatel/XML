@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<?xml-stylesheet type="text/css" href="student.css" ?>
+<stud>
+    <record>STUDENT DETAILS</record>
+    <n>NAME</n>
+    <f>FIELD</f>
+    <y>YEAR</y>
+    <c>CLASS</c>
+    <r>ROLL NO</r>
+    
+<student category="s1">
+	<name>
+		<first>neel</first>
+		<last>salvi</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>38</rollno>
+</student>
+
+<student category="s2">
+	<name>
+		<first>axy</first>
+		<last>p</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>32</rollno>
+</student>
+
+<student category="s3">
+	<name>
+		<first>shafaat</first>
+		<last>M</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>43</rollno>
+</student>
+<student category="s4">
+	<name>
+		<first>swati</first>
+		<last>K</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>50</rollno>
+</student>
+<student category="s5">
+	<name>
+		<first>pr7</first>
+		<last>R</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>36</rollno>
+</student>
+<student category="s6">
+	<name>
+		<first>mujju</first>
+		<last>D</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>10</rollno>
+</student>
+<student category="s7">
+	<name>
+		<first>Pa-G</first>
+		<last>P</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>26</rollno>
+</student>
+<student category="s8">
+	<name>
+		<first>Rusi</first>
+		<last>S</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>49</rollno>
+</student>
+<student category="s9">
+	<name>
+		<first>vishal</first>
+		<last>S</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>42</rollno>
+</student>
+<student category="s10">
+	<name>
+		<first>Allen</first>
+		<last>F</last>
+	</name>
+	<field>IT</field>
+	<year>2nd</year>
+	<class>MCA</class>
+	<rollno>12</rollno>
+</student>
+</stud>
+

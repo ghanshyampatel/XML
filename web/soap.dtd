@@ -1,0 +1,62 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/soap.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE soap SYSTEM "soap.dtd">
+
+    <soap>
+    ...
+    </soap>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT soap (title|heading|sp)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT title (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT heading (h1|h2|h3|h4|h5)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h1 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h2 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h3 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h4 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h5 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT sp (id|name|qty|price|color)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT id (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT name (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT qty (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT price (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT color (#PCDATA)>

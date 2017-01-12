@@ -1,0 +1,56 @@
+stud{
+    display:table;
+    border: solid grey 1px;
+    margin: 10em 3em 10px 23em;
+    border-spacing: 10px;
+}
+student{
+    //border: solid grey 1px;
+    margin: 10em 3em 10px 23em;
+    display: table-row;
+    }
+name{
+   
+   background-color: azure;
+   display: table-cell;
+   //border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   field{
+   background-color: azure;
+   display: table-cell;   
+   //border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   year{
+   background-color: azure;    
+   display: table-cell;   
+   //border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   class{
+   background-color: azure;    
+   display: table-cell;    
+   //border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   rollno{
+   background-color: azure;    
+   display: table-cell;   
+   text-align: center;
+   //border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   n,f,y,c,r
+   {
+   background-color: gray;
+   font-weight: bold;
+   display: table-cell;    
+   //border: solid grey 1px;
+   margin: 10em 3em 10px 23em;
+   }
+   record{
+       display: table-caption;
+       margin: 25px;
+       font-size: 25px;
+   }

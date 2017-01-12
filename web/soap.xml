@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<?xml-stylesheet type="text/css" href="sp_css.css"?>
+
+<soap>
+    <title>Soap Details...</title>
+    <heading>
+    <h1>Id</h1><h2>Name</h2><h3>Quantity</h3><h4>Price</h4><h5>Color</h5>
+</heading>
+
+    <sp>
+        <id>1</id>
+        <name>hamam</name>
+        <qty>2</qty>
+        <price>30</price>
+        <color>green</color>
+    </sp>
+    <sp>
+         <id>2</id>
+        <name>dove</name>
+        <qty>3</qty>
+        <price>50</price>
+        <color>white</color>
+    </sp>
+     <sp>
+        <id>3</id>
+        <name>mysore sandal</name>
+        <qty>2</qty>
+        <price>60</price>
+        <color>yellow</color>
+    </sp>
+     <sp>
+        <id>4</id>
+        <name>dettol</name>
+        <qty>4</qty>
+        <price>35</price>
+        <color>orange</color>
+    </sp>
+     <sp>
+        <id>5</id>
+        <name>lux</name>
+        <qty>2</qty>
+        <price>30</price>
+        <color>white</color>
+    </sp>
+     <sp>
+        <id>6</id>
+        <name>lifeboy</name>
+        <qty>2</qty>
+        <price>30</price>
+        <color>green</color>
+    </sp>
+     <sp>
+        <id>7</id>
+        <name>liril2000</name>
+        <qty>2</qty>
+        <price>80</price>
+        <color>green</color>
+    </sp>
+     <sp>
+        <id>8</id>
+        <name>cinthol</name>
+        <qty>1</qty>
+        <price>50</price>
+        <color>blue</color>
+    </sp>
+     <sp>
+        <id>9</id>
+        <name>pears</name>
+        <qty>2</qty>
+        <price>40</price>
+        <color>green</color>
+    </sp>
+     <sp>
+        <id>10</id>
+        <name>santoor</name>
+        <qty>2</qty>
+        <price>30</price>
+        <color>orange</color>
+    </sp>
+    
+</soap>

@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<?xml-stylesheet type="text/css" href="product.css"?>
+<product>
+ <heading>
+    <h1>id</h1>
+    <h2>name</h2>
+    <h3>color</h3>
+    <h4>price</h4>
+    <h5>size</h5>
+    <h6>material</h6>
+    <h7>type</h7>
+    <h8>dealer</h8>
+ </heading>
+ <prod>
+     <id>1</id>
+     <name>shirt</name>
+     <color>green</color>
+     <price>20</price>
+     <size>10</size>
+     <material>cotton</material>
+     <type>clothing</type>
+     <dealer>aishwarya</dealer>
+ </prod>
+ 
+ <prod>
+     <id>2</id>
+     <name>skirt</name>
+     <color>blue</color>
+     <price>40</price>
+     <size>50</size>
+     <material>cotton</material>
+     <type>clothing</type>
+     <dealer>surbhi</dealer>
+ </prod>
+ 
+ <prod>
+     <id>3</id>
+     <name>bulb</name>
+     <color>yellow</color>
+     <price>50</price>
+     <size>10</size>
+     <material>glass</material>
+     <type>electric</type>
+     <dealer>aditya</dealer>
+ </prod>
+ 
+ <prod>
+     <id>4</id>
+     <name>shirt</name>
+     <color>green</color>
+     <price>10</price>
+     <size>10</size>
+     <material>cotton</material>
+     <type>clothing</type>
+     <dealer>snehal</dealer>
+ </prod>
+ 
+ <prod>
+     <id>5</id>
+     <name>saree</name>
+     <color>green</color>
+     <price>20</price>
+     <size>10</size>
+     <material>silk</material>
+     <type>clothing</type>
+     <dealer>amogh</dealer>
+ </prod>
+ 
+ <prod>
+     <id>6</id>
+     <name>table</name>
+     <color>brown</color>
+     <price>100</price>
+     <size>50</size>
+     <material>glass</material>
+     <type>furniture</type>
+     <dealer>mujju</dealer>
+ </prod>
+ 
+ <prod>
+     <id>7</id>
+     <name>shirt</name>
+     <color>yellow</color>
+     <price>200</price>
+     <size>20</size>
+     <material>cotton</material>
+     <type>clothing</type>
+     <dealer>neel</dealer>
+ </prod>
+ 
+ <prod>
+     <id>8</id>
+     <name>chair</name>
+     <color>blue</color>
+     <price>200</price>
+     <size>80</size>
+     <material>plastic</material>
+     <type>furniture</type>
+     <dealer>prashant</dealer>
+ </prod>
+ 
+ <prod>
+     <id>9</id>
+     <name>dress</name>
+     <color>red</color>
+     <price>100</price>
+     <size>10</size>
+     <material>cotton</material>
+     <type>clothing</type>
+     <dealer>saurabh</dealer>
+ </prod>
+ 
+ <prod>
+     <id>10</id>
+     <name>jeans</name>
+     <color>blue</color>
+     <price>40</price>
+     <size>10</size>
+     <material>denim</material>
+     <type>clothing</type>
+     <dealer>mayuresh</dealer>
+ </prod>
+</product>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+-->
+
+<?xml-stylesheet type="text/css" href="realcss.css" ?>
+<realestate>
+    
+       <head1>
+       
+<h11>Real Estate</h11>
+    
+</head1>
+
+<heading>
+    
+<h1>Building Name</h1>
+    
+<h2>flat_no</h2>
+    
+<h3>Area</h3>
+   
+<h4>Price</h4>
+    
+<h5>Size</h5>
+<h6>Bathroom</h6>    
+ 
+
+</heading>
+
+<real>
+<bname>madhu</bname>
+<fno>203</fno>
+<area>thakuri</area>
+<price>3000000</price>
+<size>3 BHK</size>
+<bath>2</bath>
+</real>
+
+<real>
+<bname>sarvodaya</bname>
+<fno>603</fno>
+<area>thakuri</area>
+<price>6000000</price>
+<size>2 BHK</size>
+<bath>1</bath>
+</real>
+
+<real>
+<bname>joti</bname>
+<fno>201</fno>
+<area>thane</area>
+<price>3700000</price>
+<size>3 BHK</size>
+<bath>1</bath>
+</real>
+
+<real>
+<bname>hiranandani</bname>
+<fno>903</fno>
+<area>pawai</area>
+<price>30000000</price>
+<size>4 BHK</size>
+<bath>3</bath>
+</real>
+
+<real>
+<bname>trimbak</bname>
+<fno>203</fno>
+<area>vikroli</area>
+<price>70000000</price>
+<size>3 BHK</size>
+<bath>2</bath>
+</real>
+
+<real>
+<bname>mille</bname>
+<fno>203</fno>
+<area>vikroli</area>
+<price>3000000</price>
+<size>1 BHK</size>
+<bath>1</bath>
+</real>
+
+<real>
+<bname>mangalmurti</bname>
+<fno>203</fno>
+<area>chembur</area>
+<price>300000000</price>
+<size>3 BHK</size>
+<bath>1</bath>
+</real>
+
+<real>
+<bname>madhu</bname>
+<fno>203</fno>
+<area>thakuri</area>
+<price>3000000</price>
+<size>3 BHK</size>
+<bath>2</bath>
+</real>
+</realestate>
+
