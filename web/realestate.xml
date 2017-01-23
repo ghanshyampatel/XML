@@ -8,12 +8,10 @@ and open the template in the editor.
 <?xml-stylesheet type="text/css" href="realcss.css" ?>
 <realestate>
     
-       <head1>
+       
        
 <h11>Real Estate</h11>
     
-</head1>
-
 <heading>
     
 <h1>Building Name</h1>
@@ -31,38 +29,38 @@ and open the template in the editor.
 </heading>
 
 <real>
-<bname>madhu</bname>
-<fno>203</fno>
+<bname>prakesh co-op</bname>
+<fno>101</fno>
 <area>thakuri</area>
-<price>3000000</price>
+<price>30lec</price>
 <size>3 BHK</size>
 <bath>2</bath>
 </real>
 
 <real>
-<bname>sarvodaya</bname>
-<fno>603</fno>
-<area>thakuri</area>
-<price>6000000</price>
+<bname>kj co-op sty</bname>
+<fno>201</fno>
+<area>ghatkopar</area>
+<price>6cr</price>
 <size>2 BHK</size>
 <bath>1</bath>
 </real>
 
 <real>
-<bname>joti</bname>
-<fno>201</fno>
+<bname>pr7 socity</bname>
+<fno>301</fno>
 <area>thane</area>
-<price>3700000</price>
-<size>3 BHK</size>
-<bath>1</bath>
+<price>37lec</price>
+<size>1 BHK</size>
+<bath>4</bath>
 </real>
 
 <real>
-<bname>hiranandani</bname>
-<fno>903</fno>
+<bname>hiranandani socity</bname>
+<fno>401</fno>
 <area>pawai</area>
-<price>30000000</price>
-<size>4 BHK</size>
+<price>3lec</price>
+<size>2 BHK</size>
 <bath>3</bath>
 </real>
 
@@ -70,25 +68,25 @@ and open the template in the editor.
 <bname>trimbak</bname>
 <fno>203</fno>
 <area>vikroli</area>
-<price>70000000</price>
+<price>7.5lac</price>
 <size>3 BHK</size>
 <bath>2</bath>
 </real>
 
 <real>
-<bname>mille</bname>
-<fno>203</fno>
+<bname>swap co-op</bname>
+<fno>555</fno>
 <area>vikroli</area>
-<price>3000000</price>
+<price>3cr</price>
 <size>1 BHK</size>
 <bath>1</bath>
 </real>
 
 <real>
-<bname>mangalmurti</bname>
-<fno>203</fno>
-<area>chembur</area>
-<price>300000000</price>
+<bname>neel</bname>
+<fno>501</fno>
+<area>dsahnu road</area>
+<price>1.5cr</price>
 <size>3 BHK</size>
 <bath>1</bath>
 </real>

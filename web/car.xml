@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="car.css"?>
+<car>
+    
+    <title>car</title>
+ <heading>
+    <h1>Id</h1>
+    <h2>Name</h2>
+    <h3>Type</h3>
+    <h4>Lauch Year</h4>  
+    <h5>Manufactorer</h5>
+</heading>
+
+    <ca>
+        <id>1</id>
+        <name>swift</name>
+        <type>small</type>
+        <lauch_year>2005</lauch_year>
+        <manufactorer>Maruti Suzuki</manufactorer>        
+    </ca>
+         <ca>
+             
+        <id>2</id>
+        <name>i20</name>
+        <type>small</type>
+        <lauch_year>200</lauch_year>
+        <manufactorer>Hyundai</manufactorer>        
+        </ca>
+        
+        <ca>
+        <id>3</id>
+        <name>Octiva</name>
+        <type>sedan</type>
+        <lauch_year>2003</lauch_year>
+        <manufactorer>Skoda</manufactorer>        
+        </ca>
+        
+        <ca>
+        <id>4</id>
+        <name>CRV</name>
+        <type>Hetchbag</type>
+        <lauch_year>2009</lauch_year>
+        <manufactorer>Honda</manufactorer>        
+        </ca>
+        
+        <ca>
+        <id>5</id>
+        <name>Baleno</name>
+        <type>small</type>
+        <lauch_year>2016</lauch_year>
+        <manufactorer>Maruti Suzuki</manufactorer>        
+        </ca>
+        
+        <ca>
+        <id>6</id>
+        <name>Kwid</name>
+        <type>small</type>
+        <lauch_year>2014</lauch_year>
+        <manufactorer>Renault</manufactorer>        
+        </ca>
+        
+        <ca>
+        <id>7</id>
+        <name>Nano</name>
+        <type>small</type>
+        <lauch_year>2010</lauch_year>
+        <manufactorer>TATA</manufactorer>        
+        </ca>
+        
+        <ca>
+        <id>8</id>
+        <name>Ecosport</name>
+        <type>Hetchback</type>
+        <lauch_year>2014</lauch_year>
+        <manufactorer>Ford</manufactorer>
+        </ca>
+        
+        <ca>
+        <id>9</id>
+        <name>Honda City</name>
+        <type>Sedan</type>
+        <lauch_year>2000</lauch_year>
+        <manufactorer>Honda</manufactorer>       
+        </ca>
+        
+        <ca>
+        <id>10</id>
+        <name>Duster</name>
+        <type>Hetchback</type>
+        <lauch_year>2013</lauch_year>
+        <manufactorer>Renault</manufactorer>
+        </ca>
+
+</car>

@@ -10,17 +10,30 @@ and open the template in the editor.
 
 weather{
     display: table;
-    border: solid grey 1px;
+    border: solid maroon;
     margin: 5em 8em 100px 15em;
     border-spacing: 2px;
-   
-   
+    text-align: center;
 }
-title{ margin:-2em 35px 20px 3em; display: table-caption; font-size: 25px;}
+title{ margin:-2em 35px 20px 3em;
+       display: table-caption;
+       font-size: 25px;}
 we{ display: table-row;}
 
 heading{display: table-row; }
 
-h1,h4,h5,h2,h3{display: table-cell; border: solid 1px; background-color: pink;  padding: 6px;}
+h1,h4,h5,h2,h3{
+    display: table-cell;
+    border: solid 1px; 
+    background-color:lightblue;  
+    padding: 6px;}
 
-city,temp,precipitation,humidity,wind{display: table-cell; border: solid 1px;  padding: 6px;}
+city,temp,precipitation,humidity,wind{
+    display: table-cell; 
+    border: solid maroon 1px;  
+    padding: 6px;
+}
+
+city{
+     background-color:lightblue; 
+}

@@ -7,6 +7,7 @@ and open the template in the editor.
 
 <?xml-stylesheet type="text/css" href="book1.css"?>
 <bookdetail>
+    <record>Book Details</record>
     <heading>
     <h1>title</h1>
     <h2>type</h2>
@@ -18,80 +19,80 @@ and open the template in the editor.
     <h8>pages</h8>
     </heading>
     <book>
-        <title>JAVA</title>
-        <type>prog</type>
-        <quantity>10</quantity>
-        <edition>5</edition>
-        <price>100</price>
-        <address>dadar</address>
-        <author>aishwarya</author>
-        <pages>200</pages>
+        <title>Java</title>
+        <type>Fiction</type>
+        <quantity>5</quantity>
+        <edition>8</edition>
+        <price>500</price>
+        <address>kurla</address>
+        <author>J.P.Morgan</author>
+        <pages>800</pages>
     </book>
     
     <book>
-        <title>COA</title>
-        <type>non fiction</type>
-        <quantity>20</quantity>
-        <edition>5</edition>
-        <price>200</price>
+        <title>Two states</title>
+        <type>Non fiction</type>
+        <quantity>2</quantity>
+        <edition>8</edition>
+        <price>300</price>
         <address>thane</address>
-        <author>unknown</author>
-        <pages>200</pages>
+        <author>chetan bhagat</author>
+        <pages>400</pages>
     </book>
     
      <book>
-        <title>Harry P</title>
-        <type>non fiction</type>
-        <quantity>220</quantity>
-        <edition>55</edition>
-        <price>400</price>
-        <address>kurla</address>
-        <author>abcd</author>
-        <pages>100</pages>
+        <title>Programming with C</title>
+        <type>Fiction</type>
+        <quantity>20</quantity>
+        <edition>4</edition>
+        <price>350</price>
+        <address>belapur</address>
+        <author>Ansi</author>
+        <pages>800</pages>
     </book>
    
     <book>
         <title>Adv Java</title>
         <type>fiction</type>
-        <quantity>20</quantity>
-        <edition>8</edition>
-        <price>100</price>
-        <address>thakurli</address>
-        <author>johan</author>
-        <pages>200</pages>
+        <quantity>10</quantity>
+        <edition>4</edition>
+        <price>200</price>
+        <address>Thakurli</address>
+        <author>Johan</author>
+        <pages>500</pages>
     </book>
     
     <book>
-        <title>AI</title>
-        <type>non fiction</type>
+        <title>Alegbra</title>
+        <type>Fiction</type>
         <quantity>10</quantity>
-        <edition>4</edition>
-        <price>100</price>
-        <address>USA</address>
-        <author>smith</author>
-        <pages>50</pages>
-    </book>
-   
-    <book>
-        <title>CSS</title>
-        <type>fiction</type>
-        <quantity>50</quantity>
         <edition>5</edition>
-        <price>200</price>
-        <address>cst</address>
-        <author>Johan</author>
-        <pages>200</pages>
+        <price>50</price>
+        <address>USA</address>
+        <author>Jas</author>
+        <pages>75</pages>
     </book>
    
     <book>
-        <title>qwr</title>
-        <type>non fiction</type>
-        <quantity>40</quantity>
-        <edition>2</edition>
-        <price>110</price>
+        <title>HTML</title>
+        <type>Fiction</type>
+        <quantity>5</quantity>
+        <edition>7</edition>
+        <price>300</price>
+        <address>Bandra</address>
+        <author>Jessy</author>
+        <pages>70</pages>
+    </book>
+   
+    <book>
+        <title>Horror Stories</title>
+        <type>Non fiction</type>
+        <quantity>5</quantity>
+        <edition>5</edition>
+        <price>100</price>
         <address>delhi</address>
         <author>prashant</author>
-        <pages>200</pages>
+        <pages>100</pages>
     </book>
    
 </bookdetail>

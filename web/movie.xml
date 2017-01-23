@@ -10,11 +10,8 @@ and open the template in the editor.
 
 
 <moviedetail>
-    <head1>
-       
-<h11> Movie Detail</h11>
     
-</head1>
+<h11> Movie Detail</h11>
 
 <heading>
     
@@ -37,14 +34,14 @@ and open the template in the editor.
 
 
 <movie>
-	<name>bighero 6</name>
-	<writer>rohit shetty</writer>
-	<rating>3</rating>
-	<typeofmovie>animated</typeofmovie>
-	<director>alia bhatt</director>
+	<name>fast and furies</name>
+	<writer>Rohit S</writer>
+	<rating>1</rating>
+	<typeofmovie>action</typeofmovie>
+	<director>alia </director>
 	<release>12-may-2014</release>
-	<hero>aditya</hero>
-	<heroine>shardha</heroine>
+	<hero>vin</hero>
+	<heroine>dipika</heroine>
 </movie>
 <movie>
 	<name>frozen</name>
@@ -53,13 +50,13 @@ and open the template in the editor.
 	<typeofmovie>animated</typeofmovie>
 	<director>salena</director>
 	<release>16-may-2014</release>
-	<hero>aditya</hero>
-	<heroine>shardha</heroine>
+	<hero>palla</hero>
+	<heroine>Sayali</heroine>
 </movie>
 <movie>
 	<name>ok jaanu</name>
 	<writer>shakti kapoor</writer>
-	<rating>3</rating>
+	<rating>4</rating>
 	<typeofmovie>love story</typeofmovie>
 	<director>shaky kapoor</director>
 	<release>12-jan-2017</release>
@@ -69,22 +66,51 @@ and open the template in the editor.
 <movie>
 	<name>bighero 6</name>
 	<writer>rohit shetty</writer>
-	<rating>3</rating>
+	<rating>1</rating>
 	<typeofmovie>animated</typeofmovie>
 	<director>alia bhatt</director>
 	<release>12-may-2014</release>
-	<hero>aditya</hero>
-	<heroine>shardha</heroine>
+	<hero>unknown</hero>
+	<heroine>swati</heroine>
 </movie>
 <movie>
-	<name>bighero 6</name>
-	<writer>rohit shetty</writer>
-	<rating>3</rating>
-	<typeofmovie>animated</typeofmovie>
-	<director>alia bhatt</director>
+	<name>Run</name>
+	<writer>prashant Rawat</writer>
+	<rating>2</rating>
+	<typeofmovie>Action</typeofmovie>
+	<director>akshay P</director>
 	<release>12-may-2014</release>
-	<hero>aditya</hero>
-	<heroine>shardha</heroine>
+	<hero>unknown</hero>
+	<heroine>U</heroine>
 </movie>
-
+<movie>
+	<name>Don</name>
+	<writer>R kapoor</writer>
+	<rating>1</rating>
+	<typeofmovie>action</typeofmovie>
+	<director>Rkapoor</director>
+	<release>12-feb-2017</release>
+	<hero>SRK</hero>
+	<heroine>PC</heroine>
+</movie>
+<movie>
+	<name>don 2</name>
+	<writer>R kapoor</writer>
+	<rating>3</rating>
+	<typeofmovie>action</typeofmovie>
+	<director>kapoor R</director>
+	<release>12-may-2024</release>
+	<hero>deep</hero>
+	<heroine>dpi</heroine>
+</movie>
+<movie>
+	<name>RunDown</name>
+	<writer>prashant Rawat</writer>
+	<rating>5</rating>
+	<typeofmovie>Action/dance</typeofmovie>
+	<director>akshay P</director>
+	<release>12-may-2015</release>
+	<hero>unknown</hero>
+	<heroine>U</heroine>
+</movie>
 </moviedetail>

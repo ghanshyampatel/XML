@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+
+<!--
+    TODO define vocabulary identification
+    PUBLIC ID: -//vendor//vocabulary//EN
+    SYSTEM ID: http://server/path/movie.dtd
+
+-->
+
+<!--
+    An example how to use this DTD from your XML document:
+
+    <?xml version="1.0"?>
+
+    <!DOCTYPE moviedetail SYSTEM "movie.dtd">
+
+    <moviedetail>
+    ...
+    </moviedetail>
+-->
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT moviedetail (h11|heading|movie)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h11 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT heading (h1|h2|h3|h4|h5|h6|h7|h8)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h1 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h2 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h3 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h4 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h5 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h6 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h7 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT h8 (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT movie (name|writer|rating|typeofmovie|director|release|hero|heroine)*>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT name (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT writer (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT rating (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT typeofmovie (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT director (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT release (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT hero (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT heroine (#PCDATA)>

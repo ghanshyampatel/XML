@@ -13,23 +13,28 @@ product{
     border: solid grey 1px;
    text-align: center;
    margin: auto;
+   border-spacing: 9px;
+   padding: 4px;
 }
 prod{
     display: table-row;
-    border: solid 1px;
     background-color: lightsalmon
 }
 id,name,color,price,size,material,type,dealer{
        display: table-cell;
-        border: solid 1px;
 }
 heading{
        display: table-row;
        color:navy;
+       font-size: 15px;
 }
 
 h1,h2,h3,h4,h5,h6,h7,h8{
       display: table-cell;
-        border: solid 1px;
         background-color: yellow;
+}
+record
+{   display: table-caption;
+    margin: 25px;
+    font-size: 25px;
 }

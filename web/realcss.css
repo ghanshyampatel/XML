@@ -12,59 +12,35 @@ realestate
 {
    
 display: table;
-  
-border: solid black 1px;
-   
- margin: 10em 3em 10px 23em; 
-
+margin-left: 150px;  
+margin-top: 50px;
 }
 real
-{
-    
-display: table-row;
-  
+{display: table-row;
 border: solid black 1px;
-  
 height:20px;
-  
 }
- heading
+ heading,h2
  {
-   
 display: table-row;
-    
-background-color: darkgreen;
-     
+background-color: lightgreen;
 color:white; 
  }
-
 bname,fno,area,price,size,bath
 {
-    display: table-cell;
-  
+display: table-cell;
 border: solid black 1px;
-  
-background-color: whitesmoke;
-  
-padding: 10px;
+background-color: grey;
+padding: 5px;
 }
 h1,h2,h3,h4,h5,h6
  {
-
 display: table-cell;
-     
 border: solid black 1px;
- 
 }
 h11
  {
-     
-display: table-cell;
-     
-margin-left: 500px; 
-     
-text-align: center;
-background-color:appworkspace;
- 
+margin-left:150px; 
+font-size: 20px; 
 }
 

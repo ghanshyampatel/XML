@@ -10,16 +10,17 @@ and open the template in the editor.
 
 bookdetail{
     display: table;
-    border: solid grey 1px;
+    border: solid blue 1px;
    text-align: center;
    margin: auto;
    margin-top: 100px;
+   width:800px;
    
 }
 book{
     display: table-row;
     border: solid 1px;
-    background-color: lightsalmon
+    background-color: aqua;
 }
 title,type,quantity,edition,price,address,author,pages{
        display: table-cell;
@@ -27,11 +28,15 @@ title,type,quantity,edition,price,address,author,pages{
 }
 heading{
        display: table-row;
-       //color:navy;
-}
+      }
 
 h1,h2,h3,h4,h5,h6,h7,h8{
       display: table-cell;
         border: solid 1px;
-        background-color: grey;
+        background-color: chocolate;
+}
+record
+{
+    display: table-caption;
+    font-size: 20px;
 }

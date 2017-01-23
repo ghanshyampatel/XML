@@ -13,7 +13,9 @@ clothdetail
    
 display: table;
 border: solid black 1px;
- margin: 10em 3em 10px 23em;
+margin-left: 350px;
+margin-top: 30px;
+text-align: center;
 }
 cloth
 {  

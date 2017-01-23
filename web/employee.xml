@@ -15,8 +15,8 @@ and open the template in the editor.
     
 	<employee category="om">
 	<name>
-		<first>om</first>
-		<last>patel</last>
+		<first>Om</first>
+		<last>Patel</last>
 	</name>
 	<id>E101</id>
 	<hiredate>8/10/2005</hiredate>
@@ -25,7 +25,7 @@ and open the template in the editor.
         
         <employee category="axy">
 	<name>
-		<first>akshay</first>
+		<first>Akshay</first>
 		<last>P</last>
 	</name>
 	<id>E102</id>
@@ -35,8 +35,8 @@ and open the template in the editor.
 	
 	<employee category="neelu">
 	<name>
-		<first>neel</first>
-		<last>salvi</last>
+		<first>Neel</first>
+		<last>Salvi</last>
 	</name>
 	<id>E103</id>
 	<hiredate>1/11/1991</hiredate>

@@ -3,7 +3,7 @@
 <!--
     TODO define vocabulary identification
     PUBLIC ID: -//vendor//vocabulary//EN
-    SYSTEM ID: http://server/path/student.dtd
+    SYSTEM ID: http://server/path/realestate.dtd
 
 -->
 
@@ -12,57 +12,57 @@
 
     <?xml version="1.0"?>
 
-    <!DOCTYPE stud SYSTEM "student.dtd">
+    <!DOCTYPE realestate SYSTEM "realestate.dtd">
 
-    <stud>
+    <realestate>
     ...
-    </stud>
+    </realestate>
 -->
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT stud (record|n|f|y|c|r|student)*>
+<!ELEMENT realestate (h11|heading|real)*>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT record (#PCDATA)>
+<!ELEMENT h11 (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT n (#PCDATA)>
+<!ELEMENT heading (h1|h2|h3|h4|h5|h6)*>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT f (#PCDATA)>
+<!ELEMENT h1 (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT y (#PCDATA)>
+<!ELEMENT h2 (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT c (#PCDATA)>
+<!ELEMENT h3 (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT r (#PCDATA)>
+<!ELEMENT h4 (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT student (name|field|year|class|rollno)*>
-<!ATTLIST student
-    category CDATA #IMPLIED
-  >
+<!ELEMENT h5 (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT name (first|last)*>
+<!ELEMENT h6 (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT first (#PCDATA)>
+<!ELEMENT real (bname|fno|area|price|size|bath)*>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT last (#PCDATA)>
+<!ELEMENT bname (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT field (#PCDATA)>
+<!ELEMENT fno (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT year (#PCDATA)>
+<!ELEMENT area (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT class (#PCDATA)>
+<!ELEMENT price (#PCDATA)>
 
 <!--- Put your DTDDoc comment here. -->
-<!ELEMENT rollno (#PCDATA)>
+<!ELEMENT size (#PCDATA)>
+
+<!--- Put your DTDDoc comment here. -->
+<!ELEMENT bath (#PCDATA)>
